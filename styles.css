@@ -1,0 +1,16 @@
+/* styles.css */
+
+body{
+    background-color: rgb(93, 85, 81);
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(248, 128, 37);
+    background-color: rgb(2, 113, 2);
+    padding: 30px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+}
